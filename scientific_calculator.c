@@ -2,13 +2,13 @@
 int main()
 {
     float N1, N2, result;
-    char operater;
+    char operator;
 
     printf("Enter first number: ");
     scanf("%f", &N1);
 
     printf("Enter operator: ");
-    scanf(" %c", &operater);
+    scanf(" %c", &operator);
 
     printf("Enter second number: ");
     scanf("%f", &N2);
